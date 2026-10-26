@@ -37,7 +37,7 @@ Stock Graph Feature
 
 ## Contact US
 Contributing Developers:
-- [Ryan Rotman](https://github.com/Hamzamehmood78/Stock-Tracker-App)
+- [Hamza Mehmood](https://github.com/Hamzamehmood78/Stock-Tracker-App)
 
 Any and all collaboration is welcome so if you have any suggestions or thoughts for new features, please send me an email at ryan.rotman@gmail.com.
 
