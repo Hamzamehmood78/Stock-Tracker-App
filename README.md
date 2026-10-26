@@ -39,7 +39,7 @@ Stock Graph Feature
 Contributing Developers:
 - [Hamza Mehmood](https://github.com/Hamzamehmood78/Stock-Tracker-App)
 
-Any and all collaboration is welcome so if you have any suggestions or thoughts for new features, please send me an email at ryan.rotman@gmail.com.
+Any and all collaboration is welcome so if you have any suggestions or thoughts for new features, please send me an email at hamzachouhdary400@gmail.com.
 
 <!-- # Getting Started with Create React App
 
